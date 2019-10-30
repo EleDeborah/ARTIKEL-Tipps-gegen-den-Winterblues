@@ -1,3 +1,3 @@
 # ARTIKEL-Tipps-gegen-den-Winterblues
 
-Unte Code findet sich der Artikel, welchen wir gemeinsam bearbeiten können.
+Unter Artikel findet sich der Artikel, welchen wir gemeinsam im Track-Change bearbeiten können.
