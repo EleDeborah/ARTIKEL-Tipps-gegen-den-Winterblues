@@ -1,18 +1,3 @@
----
-title: <center>7 Tipps gegen den Winterblues</center>
-author: <center>Jason Young</center>
-date: <center>05 11 2019</center>
-output:
-  html_document: default
-  word_document: default
-  pdf_document: default
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-***
-Abstract: Grau, kalt, nass: Die dunkle Jahreszeit schlägt vielen Menschen aufs Gemüt. In diesem Artikel verraten wir dir, wie du dich am besten gegen das Stimmungstief wehren kannst und gesund, glücklich und hoffentlich erfolgreich durch den Winter und die Prüfungsphase kommst.
-
 <style>
 img {
   display: block;
@@ -26,6 +11,9 @@ p {
 text-align: justify
 }
 </style>
+
+Abstract: Grau, kalt, nass: Die dunkle Jahreszeit schlägt vielen Menschen aufs Gemüt. In diesem Artikel verraten wir dir, wie du dich am besten gegen das Stimmungstief wehren kannst und gesund, glücklich und hoffentlich erfolgreich durch den Winter und die Prüfungsphase kommst.
+
 <img src="winterblues.jpg" alt="winterblues" class="center" width="600px" height="400"/>
 <figcaption>Nass, kalt und grau: Der Winter von seiner schönsten Seite             ©CHRISTOPHER FURLONG / Getty Images.</figcaption>
 <br>
