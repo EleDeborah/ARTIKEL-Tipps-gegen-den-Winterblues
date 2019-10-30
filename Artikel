@@ -1,0 +1,57 @@
+---
+title: <center>7 Tipps gegen den Winterblues</center>
+author: <center>Jason Young</center>
+date: <center>05 11 2019</center>
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***
+Abstract: Grau, kalt, nass: Die dunkle Jahreszeit schlägt vielen Menschen aufs Gemüt. In diesem Artikel verraten wir dir, wie du dich am besten gegen das Stimmungstief wehren kannst und gesund, glücklich und hoffentlich erfolgreich durch den Winter und die Prüfungsphase kommst.
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption {
+text-align:center
+}
+p {
+text-align: justify
+}
+</style>
+<img src="winterblues.jpg" alt="winterblues" class="center" width="600px" height="400"/>
+<figcaption>Nass, kalt und grau: Der Winter von seiner schönsten Seite             ©CHRISTOPHER FURLONG / Getty Images.</figcaption>
+<br>
+
+Es ist noch dunkel, wenn der Wecker klingelt - und auch am Nachmittag dämmert es schon wieder. Die Temperaturen sinken im Sturzflug, sodass du dir schon überlegst, im Skianzug zur Vorlesung zu gehen. Mit voller Wucht verdrängt der Winter derzeit die letzten lauen Herbstabende und der graue Himmel betrübt nicht nur den Sonnenschein, sondern oft auch unsere Stimmung. Lustlosigkeit, chronische Müdigkeit und Gereiztheit haben [Norman E. Rosenthal und Kollegen](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/493246) bereits 1984 als typische Symptome für eine „saisonal abhängige Depression“ identifiziert. Etwa [2,2 Prozent](https://pdfs.semanticscholar.org/6785/af7c33743decf370bbc122ad7fe451c3a411.pdf) der erwachsenen Bevölkerung, darunter mehr Frauen als Männer, leiden in der Schweiz regelmässig unter einer solchen jahreszeitlichen Depression und benötigen zum Teil ärztliche Hilfe. Aber auch wer keine behandlungsbedürftige „Winterdepression“ entwickelt, kann sich beeinträchtigt fühlen. Etwa ein [Viertel](https://www.sciencedirect.com/science/article/abs/pii/S0165032708003923) der Schweizer kennt diesen Winterblues aus eigener Erfahrung. Damit es nicht so weit kommt, haben wir nützliche Vermeidungsstrategien gesammelt, wie du gesund, glücklich und hoffentlich erfolgreich durch den Winter und die Prüfungsphase kommst:
+
+# 1. Fiat Lux
+[Forscher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3202491/) sind sich einig, dass der Winterblues durch Lichtmangel ausgelöst wird. Dieser führt dazu, dass unser Körper weniger Glückshormone [(Serotonin)](https://www.zentrum-der-gesundheit.de/serotonin-ia.html) produziert und dafür mehr Schlafhormone [(Melatonin)](https://www.chronobiology.com/de/schlaf-2/melatonin-chronobiologie/). Deshalb kann man ihm durch mehr Licht auch am effektivsten den gar aus machen. Das geht am allerbesten draussen, denn selbst bei bedecktem Himmel bekommt man immer noch mehr als die [zehnfache Lichtmenge](https://www.spiegel.de/gesundheit/psychologie/depression-lichtmangel-kann-winterdepression-ausloesen-a-925737.html) ab, die man in geschlossenen Räumen hat. Alternativ kann man sich Tageslichtlampen für Zuhause besorgen, die einem eine höhere Lichtintensität verschaffen und so den Serotonin-Haushalt ankurbeln.
+
+# 2. Bewegung
+Entgegen des Sprichworts „Sport ist Mord" haben diverse [Studien](https://link.springer.com/article/10.1007%2Fs10902-018-9976-0) gezeigt: Bewegung macht glücklich. Sportler haben seltener Probleme mit ihrem [Serotonin-Haushalt ](https://d-nb.info/1133492924/34), denn beim Sport schüttet der Körper Hormone wie Endorphin, Serotonin und Dopamin aus. Dabei muss es nicht immer gleich ein Marathon oder unzählige Stunden im Fitnessstudio sein. Auch schon eine moderate Sporteinheit von nur 10 Minuten pro Woche steigert unser Glücksgefühl um bis zu [50%](https://link.springer.com/article/10.1007%2Fs10902-018-9976-0). Bei einem Spaziergang oder einer Jogging-Runde an der frischen Luft und mit viel Tageslicht lassen sich ausserdem gleich zwei Fliegen mit einer Klappe schlagen (vgl. Fiat Lux). 
+
+# 3. Gesunde Ernährung 
+Ebenfalls essenziell ist die richtige Ernährung. In den Wintermonaten steigt der Appetit nach währschaften Speisen mit vielen [Kohlenhydraten](https://www.ncbi.nlm.nih.gov/pubmed/9716435). Diese benötigt unser Körper zur Serotoninproduktion. Iss dich also glücklich, am besten mit [kohlenhydratreicher Kost](https://www.fr.de/ratgeber/gesundheit/lebensmittel-gluecklich-machen-11245031.html) aus Vollkorngetreiden wie Hirse, Dinkel, Buchweizen, Quinoa oder Gerste. Auch Weintrauben, Ananas, Bananen und Schokolade fördern die Ausschüttung von Serotonin. In Algen, Nüssen und fettreichem Fisch sind ausserdem wertvolle [Omega-3-Fettsäuren](https://www.beobachter.ch/gesundheit/wohlfuhlen-pravention/winterblues-sonne-im-herzen-genugt-nicht) enthalten, die nachweislich Depressionen vorbeugen und lindern können.
+
+# 4. Natürliche Wärme aus Pflanzenkraft 
+Die wichtigste Heilpflanze zur Behandlung von Winterdepressionen ist das [Johanniskraut](https://www.pharmawiki.ch/wiki/index.php?wiki=johanniskraut), welches als natürlicher Stimmungsaufheller und Antidepressivum gilt. Zahlreiche [Studien](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/st-johns-wort-for-depression/58916A1C292B17AC2845E50CBDC30C3A) konnten bereits einen Nachweis erbringen, dass die Einnahme von Johanniskrautpräparaten zu einer deutlichen Verbesserung der Stimmungslage bei Patienten mit leichten Depressionen führt. Konkret erhöht Johanniskraut die Konzentration von Botenstoffen wie Dopamin, Serotonin und Noradrenalin und hemmt ausserdem den Abbau von Serotonin. Auch hier lassen sich mehrere Tipps wunderbar kombinieren: beim Herbstspaziergang durch die bunten Wälder Johanniskraut sammeln, trocknen und als [Tee](https://www.kostbarenatur.net/rezepte/johanniskraut-tee-wirkung-anwendung-nebenwirkungen/) aufbrühen. Falls du die frische Johanniskrauternte bereits verpasst hast, kannst du dir auch einfach Kapseln mit Johanniskrautextrakten besorgen.
+
+# 5. Keep smiling
+[Gelotologie](https://www.welt.de/wissenschaft/article876622/Warum-Lachen-gesund-und-gluecklich-macht.html) heisst die wissenschaftliche Disziplin, die sich mit den Auswirkungen des Lachens auf die Gesundheit befasst. Gelotologen konnten [zeigen](https://www.ncbi.nlm.nih.gov/pubmed/27439375), dass beim Lachen über hundert Muskeln aktiv sind, welche die Bronchien belüftet, die Körperzellen mit Sauerstoff versorgen und den gesamten Kreislauf anregen. Lachen bremst so Stresshormone aus und regt die Serotoninproduktion an. Ganz egal ob du in schönen Erinnerungen schwelgst, einen guten Witz erzählt bekommst oder ausgekitzelt wirst: ein herzhaftes Lachen ist eine effektive Selbstmedikation gegen den Winterblues. 
+
+# 6. Kuscheleinheiten
+Schnapp dir deinen Partner, Familienmitglieder, Freunde oder deinen Lieblings-Teddybären und kuschel den Winterblues weg! Die [Haptik-Forschung](https://idw-online.de/de/news?print=1&id=663531) zeigt, dass eine zehnminütige Kuscheleinheit pro Tag die Stimmung aufhellt, Stress reduziert und gegen Depressionen helfen kann. Der Grund: Berührungen von mindestens 20 Sekunden sorgen dafür, dass im Gehirn bestimmte Hormone und Neurotransmitter entstehen, die körpereigene Opiate verstärken und die Produktion von Stresshormonen drosselt.
+
+# 7. Positives Mindset
+Der wichtigste Punkt zum Schluss: Ignorier das Wetter und bleib aktiv! Auch wenn draussen wieder einmal Schietwetter herrscht, mit der richtigen Einstellung kann dir schlechtes Wetter nichts anhaben. Versuch einfach das zu machen, was du im Sommer auch machen würdest anstatt in den Winterschlaf zu gehen. Wer glaubt, dass die Lebenszufriedenheit einzig und allein vom Wetter abhängt, verfällt nämlich der sogenannten [Focusing Illusion](https://www.edge.org/response-detail/11984). «Nichts im Leben ist so wichtig, wie Sie denken, während Sie darüber nachdenken», beschreibt der Nobelpreisträger [Daniel Kahneman](https://books.google.de/books?id=4tV9qDT0CpoC) diesen Effekt. Je stärker wir uns auf einen bestimmten Aspekt unseres Lebens konzentrieren, desto grösser scheint uns der Einfluss dieses Aspekts auf unser ganzes Leben zu sein. Wenn wir uns ausschliesslich auf das Wetter konzentrierten, dominiert dieser eine Aspekt und wir übersehen so glatt die vielen weiteren Aspekte, die unsere Lebenszufriedenheit ausmachen. Das Wetter beeinflusst also durchaus, wie wir denken, fühlen und handeln. Doch objektiv betrachtet sind diese Effekte schwach. Welche Auswirkungen das Wetter auf uns hat, ist vielmehr Einstellungssache.
+ 
+ <img src="Schietwetter.jpg" alt="Schietwetter" class="center" width="400px" height="600"/>
+ <figcaption>Schlechtes oder gutes Wetter ist Ansichtssache.</figcaption>
